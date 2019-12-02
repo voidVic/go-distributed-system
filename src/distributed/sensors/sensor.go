@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"time"
 
-	"distributed/dto"
+	dto "github.com/voidvic/go-distributed/src/distributed/dto"
 )
 
 var rabbitUrl = "amqp://guest@localhost:5672"
