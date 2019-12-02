@@ -1,3 +1,5 @@
-module github.com/voidvic/go-disttributed
+module github.com/voidvic/go-distributed-system
 
 go 1.12
+
+require github.com/streadway/amqp v0.0.0-20190827072141-edfb9018d271
